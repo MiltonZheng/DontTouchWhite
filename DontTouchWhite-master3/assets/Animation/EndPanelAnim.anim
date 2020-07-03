@@ -1,0 +1,251 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EndPanelAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Stars/New Sprite": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.30475578406169673,
+                1.0020565552699228
+              ]
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.3754498714652957,
+                0.9988431876606684
+              ]
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Stars/New Sprite copy": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.30475578406169673,
+                1.0020565552699228
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.3754498714652957,
+                0.9988431876606684
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Stars/New Sprite3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.30475578406169673,
+                1.0020565552699228
+              ]
+            },
+            {
+              "frame": 1.15,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": [
+                0.3,
+                0.3,
+                0.3754498714652957,
+                0.9988431876606684
+              ]
+            },
+            {
+              "frame": 1.15,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.15,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "New Label": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "New Label copy": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3,
+              "value": 0
+            },
+            {
+              "frame": 1.95,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "RestartBtn": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.95,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ExitBtn": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.95,
+              "value": 0
+            },
+            {
+              "frame": 2.6,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Stars/New Sprite/New Particle": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Stars/New Sprite copy/New Particle": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.75,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Stars/New Sprite3/New Particle": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.8333333333333334,
+              "value": false
+            },
+            {
+              "frame": 1.15,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
